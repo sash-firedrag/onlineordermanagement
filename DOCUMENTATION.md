@@ -7,35 +7,42 @@ The Online Order Management System is a web-based application designed to stream
 2. Features
 
 2.1 User Management
+
 Registration: Customers and admins can register with essential credentials.
 Login/Logout: Secure session-based authentication.
 Role-based Access: Admin and Customer roles determine feature access.
 
 2.2 Order Management
+
 Place Orders: Customers can place orders for available products.
 Track Status: Orders are tracked with statuses like Pending, Shipped, Delivered.
 Manage Orders: Admins can update or delete orders.
 
 2.3 Dashboard
+
 Admin Dashboard: View and manage all orders across users.
 User Dashboard: Customers can view and manage their own orders.
 
 2.4 Notifications
+
 Flash Messages: Confirmation and error messages for user actions like login, registration, order status updates.
 
 3. System Requirements
 
 3.1 Hardware Requirements
+
 RAM: 512 MB or more
 Storage: 80 GB or higher
 Processor: Dual-core or higher
 
 3.2 Software Requirements
+
 Python: Version 3.6 or higher
 Flask: Web framework
 SQLite3: Lightweight embedded database
 
 3.3 Python Packages
+
 Install using `pip install flask werkzeug` or from a `requirements.txt` file. Common packages include:
 Flask
 werkzeug
