@@ -111,22 +111,26 @@ python app.py
 Access the Application
 Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-8. Security Practices
+8. Security Practices:
+   
 Password Hashing: Use werkzeug for secure password hashing.
 Role-based Access: Admin and customer permissions separated.
 Input Validation: Protect against SQL injection and other threats.
 
-9. Future Enhancements
+10. Future Enhancements:
+    
 📧 Email alerts for order updates
 📊 Order statistics dashboard
 📦 Product inventory management
 🛒 Cart system for bulk ordering
 📱 Mobile responsive version
 
-10. License
+11. License:
+    
 This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, and distribute it with proper attribution.
 
-11. Authors
+12. Authors:
+
 Sashwath P 
  
 Sanjai S
